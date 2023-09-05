@@ -1,5 +1,13 @@
-const index = () => {
-  return <div>index</div>;
-};
-
-export default index;
+export { default as AddJob } from "./AddJob";
+export { default as Admin } from "./Admin";
+export { default as AllJobs } from "./AllJobs";
+export { default as DashBoardLayout } from "./DashboardLayout";
+export { default as HomeLayout } from "./HomeLayout";
+export { default as DeleteJobs } from "./DeleteJobs";
+export { default as Error } from "./Error";
+export { default as Login } from "./Login";
+export { default as Profile } from "./Profile";
+export { default as Register } from "./Register";
+export { default as Stats } from "./Stats";
+export { default as EditJobs } from "./EditJobs";
+export { default as Landing } from "./Landing";

@@ -2,7 +2,6 @@ import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import {
   HomeLayout,
   DashBoardLayout,
-  //Landing,
   Register,
   Login,
   Landing,
